@@ -1,0 +1,6 @@
+users:
+  rds: "dbpm-dev"
+  env: "qa"
+  database: "dbAdmin"
+  technology: "mysql"
+  usernames: "paola,vino"
